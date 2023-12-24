@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 
+
 // Domain class represents a domain and provides methods to compare and check subdomains.
 class Domain {
 public:

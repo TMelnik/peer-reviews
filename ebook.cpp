@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 // Function to handle the READ command
 void HandleReadCommand(vector<int>& user, vector<int>& page, int& total_user, int x, int y) {
     if (user[x] == 0) {
